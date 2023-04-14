@@ -7,4 +7,6 @@ The following analysis pertains to the collection of size, type and amount of sp
 Resources Section:
 This is a list of resources I used to help create this code where I got stuck
 
-https://stackoverflow.com/questions/75348967/pandas-series-apply-lambda-function-to-count-data-frame-column-values-with-con : how to use lambda function
+a reminder of how the cut function worked: https://pandas.pydata.org/docs/reference/api/pandas.cut.html
+
+a general Pandas cheat sheet: https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
